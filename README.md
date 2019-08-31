@@ -3,8 +3,8 @@
 Match pairs to score.
 
 <p float="left">
-<img src="../assets/game.gif" alt="Gameplay" width="200" height="200"/>
-<img src="../assets/responsive.gif" alt="Responsive" width="200" height="200"/>
+<img src="../assets/game.gif" alt="Gameplay" width="250" height="250"/>
+<img src="../assets/responsive.gif" alt="Responsive" width="250" height="250"/>
 </p>
 
 ### Installation
