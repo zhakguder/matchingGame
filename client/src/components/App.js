@@ -1,11 +1,12 @@
 import React, { Component } from "react";
 import GameBoard from "./GameBoard";
+import "../index.css";
 
 class App extends Component {
   render() {
     return (
       <>
-        <div className="ui  container">
+        <div style={styles} className="ui  container">
           <GameBoard />
         </div>
       </>
@@ -13,4 +14,5 @@ class App extends Component {
   }
 }
 
+const styles = { fontFamily: "Chilanka" };
 export default App;
