@@ -9,7 +9,7 @@ Match pairs to score.
 
 ### Installation
 
-Fork or clone the repository. Go into the root folder and install dependencies:
+Fork or clone the repository. Go into the `client` folder and install dependencies:
 
 ```sh
 $ npm install
